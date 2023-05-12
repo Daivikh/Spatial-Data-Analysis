@@ -14,13 +14,13 @@ Before running the application, ensure that you have the following software inst
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Daivikh/Spatial-Data-Analysis.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd <project_directory>
+cd spatialData
 ```
 
 3. Install the dependencies:
